@@ -1,0 +1,26 @@
+body {
+  font-family: sans-serif;
+  line-height: 180%;
+}
+
+th, td {
+  padding: 8px;
+  border: solid 1px #cccccc;
+}
+
+th {
+  color: #aaaaff;
+  font-weight: 400;
+  width: 100px;
+  text-align: right;
+}
+
+td {
+  width: 220px;
+  word-break: break-all;
+}
+
+a {
+  text-decoration: none;
+  color: #aaffff;
+}
